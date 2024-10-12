@@ -1,16 +1,5 @@
 {
-	"beatsPerMeasure": 4,
-	"opponentModeAllowed": true,
-	"coopAllowed": true,
-	"stepsPerBeat": 4,
-	"bpm": 138,
-	"difficulties": [
-		"Normal"
-	],
-	"needsVoices": false,
-	"parsedColor": -1,
-	"displayName": "Bad Apple",
-	"icon": "Icon",
-	"name": "Bad Apple",
-	"color": "#FFFFFF"
+	"displayName": "test",
+	"bpm": 150.0,
+	"icon": "face"
 }
